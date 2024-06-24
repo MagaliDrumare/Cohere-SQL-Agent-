@@ -1,4 +1,5 @@
 ### Cohere 
+
 Cohere Inc. is a Canadian multinational technology company focused on artificial intelligence for the enterprise, specializing in large language models.
 
 ### Cohere Blog 
